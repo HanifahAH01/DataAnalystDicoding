@@ -1,0 +1,10 @@
+import numpy as np
+import pandas as pd
+import scipy
+import matplotlib.pyplot as plt
+import seaborn
+!pip install openpyxl xlrd
+pip install streamlit
+import streamlit as st
+from babel.numbers import format_currency
+from PIL import Image
