@@ -2,7 +2,9 @@
 Proyek visualisasi data dan membuat dashboard menggunakan streamlit
 
 >Nama: [Hanifah Al Humaira]
+
 >Email: [hanifah200201@gmail.com]
+
 >ID Dicoding: [Hanifah01]
 
 #Visualisasi Data
