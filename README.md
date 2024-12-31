@@ -20,7 +20,7 @@ Proyek visualisasi data dan membuat dashboard menggunakan streamlit
 >pip install streamlit
 
 # Run app
->streamlit run hello-world.py
+>streamlit run dashboard.py
 
 # Dashboard
   >![Screenshot 2024-12-18 211115](https://github.com/user-attachments/assets/8c194bd3-c445-4be3-99ef-72a3a4fb68b6)
