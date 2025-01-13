@@ -29,11 +29,22 @@ Proyek visualisasi data dan membuat dashboard menggunakan streamlit
 
 # Conclusion
 > - ## Bagaimana tren order yang terjadi?
-  Tren order mengalami kenaikan signifikan pada awal periode, diikuti oleh stabilisasi sementara, dan kemudian penurunan drastis hingga tidak ada aktivitas setelah pertengahan 2018.
+    . Tren Order Count (Jumlah Order) terlihat sangat stabil dengan nilai yang relatif kecil sepanjang waktu. Tidak ada fluktuasi yang besar.
+    . Revenue (Pendapatan) meningkat dengan pesat pada awalnya hingga mencapai puncak pada pertengahan tahun 2018, sebelum turun secara drastis menuju nol. Ini bisa menunjukkan adanya perubahan besar dalam bisnis, seperti pengurangan penjualan atau penghentian operasi.
+    . Total Freight (Total Biaya Pengiriman) cenderung mengalami peningkatan yang stabil dari awal waktu pengamatan hingga pertengahan tahun 2018, setelah itu berhenti seperti halnya tren revenue.
 > - ## Bagaimana distribusi jumlah kode pos unik per tahun?
-  2016: Aktivitas rendah, hampir tidak ada distribusi signifikan. 
-  2017: Distribusi pesanan unik meningkat secara bertahap sepanjang tahun. 
-  2018: Aktivitas memuncak pada awal tahun, stabil untuk sementara waktu, namun mengalami penurunan tajam mendekati nol di akhir tahun.
+     Dari visualisasi data, distribusi jumlah kode pos unik per tahun menunjukkan adanya pola tertentu yang menggambarkan cakupan geografis pesanan selama periode analisis:
+
+    . Peningkatan Jumlah Kode Pos Unik:
+      1) Pada tahun-tahun awal, jumlah kode pos unik relatif rendah, menunjukkan bahwa pesanan mungkin masih terkonsentrasi pada area geografis tertentu.
+      2) Seiring waktu, terlihat peningkatan jumlah kode pos unik yang signifikan, yang dapat mengindikasikan ekspansi geografis dari layanan atau penetrasi pasar yang lebih luas.
+
+    . Puncak Distribusi:
+      1) Pada periode tertentu (misalnya tahun dengan jumlah kode pos unik tertinggi), terlihat bahwa jangkauan layanan telah mencapai wilayah yang lebih luas. Hal ini mungkin berkaitan dengan peningkatan strategi pemasaran, perluasan jaringan pengiriman, atau       
+         peningkatan popularitas platform.
+
+    . Penurunan atau Stabilitas:
+      1) Jika ada penurunan pada akhir periode, hal ini dapat menunjukkan adanya perubahan dalam cakupan data, wilayah operasi, atau batasan lain yang memengaruhi distribusi geografis pesanan.
 
 # Dataset
 > https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view
