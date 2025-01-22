@@ -23,9 +23,7 @@ Proyek visualisasi data dan membuat dashboard menggunakan streamlit
 >streamlit run dashboard.py
 
 # Dashboard
-  >![Screenshot 2024-12-18 211115](https://github.com/user-attachments/assets/8c194bd3-c445-4be3-99ef-72a3a4fb68b6)
-
-  >![Screenshot 2024-12-18 211128](https://github.com/user-attachments/assets/d4f169cf-6f03-4b83-a831-f695cc0c4b83)
+  >![dashbord](https://github.com/user-attachments/assets/edf80a5f-0abf-4bb4-b419-20f80e1ab4c8)
 
 # Conclusion
 > - ## Bagaimana tren order yang terjadi?
